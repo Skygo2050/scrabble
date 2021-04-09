@@ -1,0 +1,72 @@
+body{
+    background-image: url(bf1.jpg);
+  
+  }
+  
+  .heading{
+    text-align: center;
+    font-weight: 700px;
+    font-size: 40px;
+    color: white;
+    margin-top: 15px;
+    background-color: black;
+    padding: 5px 10px 5px 10px;
+    border: 2px solid #1aff1a;
+  }
+  .row{
+    margin-top: 50px;
+  }
+  .row .lefttable form .but{
+    margin-left: 50px;
+    height: 50px;
+    width: 150px;
+    background-color: #1aff1a;
+    
+    border: 2px solid black;
+  }
+  .row .lefttable form .but a{
+    color: black;
+    font-size: 20px;
+  }
+  table{
+    border-collapse: collapse;
+    border: 20px solid #1aff1a;
+  }
+  sup{
+      color: blue;
+      position: absolute;
+  }     
+  td{
+      border: 3px solid black;
+      width: 50px;
+      height:50px;
+      text-align: center;
+      color: white;
+  }
+  td:empty{
+      background: black;
+  }
+  td{
+    background: white;
+  }
+  .row .righttable{
+    padding: 0px 50px 50px 50px;
+    padding-left: 100px;
+  }
+  .row h2{
+    color: white;
+  }
+  .row p{
+    color: white;
+    font-size: 20px;
+  }
+  .row .lefttable{
+    padding-left: 40px;
+  }
+  footer {
+    text-align: center;
+    padding: 3px;
+    background-color: black;
+    color: #1aff1a;
+    position: relative;
+  }                     
